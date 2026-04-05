@@ -65,16 +65,16 @@ I am committed to continuous learning and building solutions that deliver practi
   <sub>Flutter</sub>
 </td>
 
-<td align="center" style="padding: 10px 14px;">
-  <img src="https://skillicons.dev/icons?i=sklearn" width="50"/><br/>
-  <sub>Scikit-learn</sub>
-</td>
-
 </tr>
 </table>
 
 <table align="center" style="margin-top: -10px;">
 <tr>
+
+<td align="center" style="padding: 10px 14px;">
+  <img src="https://skillicons.dev/icons?i=sklearn" width="50"/><br/>
+  <sub>Scikit-learn</sub>
+</td>
 
 <td align="center" style="padding: 10px 14px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50"/><br/>
