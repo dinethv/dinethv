@@ -39,11 +39,6 @@ I am committed to continuous learning and building solutions that deliver practi
 </td>
 
 <td align="center" style="padding: 10px 14px;">
-  <img src="https://skillicons.dev/icons?i=cpp" width="50"/><br/>
-  <sub>C++</sub>
-</td>
-
-<td align="center" style="padding: 10px 14px;">
   <img src="https://skillicons.dev/icons?i=dart" width="50"/><br/>
   <sub>Dart</sub>
 </td>
