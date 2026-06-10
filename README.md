@@ -1,7 +1,9 @@
 # Dineth Vilochana
 
-I am a Software Engineering undergraduate focused on developing efficient, scalable, and reliable software systems.  
-My interests include backend engineering, machine learning, and data-driven applications.  
+<img align="right" alt="Coding" width="220" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+
+I am a Software Engineering undergraduate focused on developing efficient, scalable, and reliable software systems.
+My interests include backend engineering, machine learning, and data-driven applications.
 I am committed to continuous learning and building solutions that deliver practical value.
 
 <br clear="right"/>
